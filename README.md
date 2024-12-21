@@ -11,7 +11,8 @@ sudo apt update && sudo apt upgrade
 sudo apt install git
 sudo apt install python3
 ```
-
+## DOWNLOAD TERMUX FDROID
+* Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 ### Instalation on Termux
 ```bash
 pkg update && pkg upgrade
