@@ -13,7 +13,7 @@ sudo apt update && sudo apt upgrade && sudo apt install git && sudo apt install 
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 ### AUTOINSTALL & AUTO RUNNING
 ```makefile
-pkg update && pkg upgrade && pkg install git && pkg install python3 && git clone https://github.com/Wildev26/INSTAOSINT.git && cd INSTA-OSINT && pip3 install -r requirements.txt && python3 instaOSINT.py
+pkg update && pkg upgrade && pkg install git && pkg install python3 && git clone https:https://github.com/WilDev26/IG-Account-Detail && cd IG-Account-Detail && pip3 install -r requirements.txt && python3 instaOSINT.py
 ```
 
 ### Feature INSTA-OSINT
